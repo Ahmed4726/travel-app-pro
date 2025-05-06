@@ -1,0 +1,8 @@
+{
+  "name": "Travel App Pro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "d101a49a"
+}
